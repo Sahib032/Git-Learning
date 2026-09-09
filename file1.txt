@@ -1,3 +1,9 @@
 I am File 1!!!
 i am going to start work withs
+<<<<<<< HEAD
 I am version 3.0 - Master
+=======
+I am version 3.0 - Feature
+Bad change
+Feature work
+>>>>>>> feature-test
